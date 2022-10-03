@@ -1,0 +1,41 @@
+Qty;Value;Device;Package;Parts;Description;DESCRIPTION;HEIGHT;MANUFACTURER_NAME;MANUFACTURER_PART_NUMBER;MOUSER_PART_NUMBER;MOUSER_PRICE-STOCK;POPULARITY;SPICEPREFIX
+1;;LDR1;LDR1;LDR1;Photocells (various);;;;;;;;
+1;;SPDT.LUGS;SPDT.LUGS;MAN;SPDT Switches;;;;;;;;
+5;100k;R-US_R0805;R0805;R2, R3, R34, R44, R45;RESISTOR, American symbol;;;;;;;;R
+3;100n;C-EUC0805;C0805;C1, C5, C20;CAPACITOR, European symbol;;;;;;;;C
+1;100p;C-EUC0805;C0805;C34;CAPACITOR, European symbol;;;;;;;;C
+2;100u;CPOL-USE2.5-6;E2,5-6;C40, C42;POLARIZED CAPACITOR, American symbol;;;;;;;;C
+10;10k;R-US_R0805;R0805;R4, R6, R9, R10, R16, R18, R21, R22, R42, R43;RESISTOR, American symbol;;;;;;;;R
+9;10n;C-EUC0805;C0805;C11, C13, C15, C17, C26, C28, C30, C32, C43;CAPACITOR, European symbol;;;;;;;;C
+1;10u;C-EUC0805;C0805;C44;CAPACITOR, European symbol;;;;;;;;C
+3;12k;R-US_R0805;R0805;R11, R23, R35;RESISTOR, American symbol;;;;;;;;R
+1;15k;R-US_R0805;R0805;R31;RESISTOR, American symbol;;;;;;;;R
+2;18k;R-US_R0805;R0805;R7, R19;RESISTOR, American symbol;;;;;;;;R
+2;1M;R-US_R0805;R0805;R1, R56;RESISTOR, American symbol;;;;;;;;R
+1;1k;R-US_R0805;R0805;R33;RESISTOR, American symbol;;;;;;;;R
+1;1k5;R-US_R0805;R0805;R17;RESISTOR, American symbol;;;;;;;;R
+4;1n;C-EUC0805;C0805;C7, C8, C22, C24;CAPACITOR, European symbol;;;;;;;;C
+7;1u;C-EUC0805;C0805;C3, C9, C18, C23, C33, C35, C36;CAPACITOR, European symbol;;;;;;;;C
+4;22k;R-US_R0805;R0805;R8, R20, R29, R32;RESISTOR, American symbol;;;;;;;;R
+4;2k2;R-US_R0805;R0805;R5, R30, R51, R55;RESISTOR, American symbol;;;;;;;;R
+1;3k9;R-US_R0805;R0805;R58;RESISTOR, American symbol;;;;;;;;R
+4;470n;C-EUC0805;C0805;C14, C16, C29, C31;CAPACITOR, European symbol;;;;;;;;C
+1;47k;R-US_R0805;R0805;R59;RESISTOR, American symbol;;;;;;;;R
+1;47p;C-EUC0805;C0805;C2;CAPACITOR, European symbol;;;;;;;;C
+2;47u;C-EUC0805;C0805;C6, C21;CAPACITOR, European symbol;;;;;;;;C
+1;47u;CPOL-USE2.5-6;E2,5-6;C41;POLARIZED CAPACITOR, American symbol;;;;;;;;C
+2;4k7;R-US_R0805;R0805;R28, R47;RESISTOR, American symbol;;;;;;;;R
+6;4n7;C-EUC0805;C0805;C4, C10, C12, C19, C25, C27;CAPACITOR, European symbol;;;;;;;;C
+1;68k;R-US_R0805;R0805;R46;RESISTOR, American symbol;;;;;;;;R
+4;82k;R-US_R0805;R0805;R13, R15, R25, R27;RESISTOR, American symbol;;;;;;;;R
+4;8k2;R-US_R0805;R0805;R12, R14, R24, R26;RESISTOR, American symbol;;;;;;;;R
+1;B10k;16MM.1;16MM_B.MOUNT;XOVR;16mm Poteniometers;;;;;;;;
+3;B25k;16MM.1;16MM_B.MOUNT;MANUAL, MIX1, REGEN;16mm Poteniometers;;;;;;;;
+1;C10k;16MM.1;16MM_B.MOUNT;DEPTH;16mm Poteniometers;;;;;;;;
+1;C250k;16MM.1;16MM_B.MOUNT;SPEED;16mm Poteniometers;;;;;;;;
+2;ES56028S;ES56028S;SOIC-28;U$5, U$6;;;;;;;;;
+2;LED.3;LED.3;3MM_2;D1, D3;LEDs, all sizes;;;;;;;;
+1;LM78M05CDTX_NOPB;LM78M05CDTX_NOPB;LM78M05CDTXNOPB;IC1;Series 3-Terminal 500-mA Positive Voltage Regulators;Series 3-Terminal 500-mA Positive Voltage Regulators;2.55mm;Texas Instruments;LM78M05CDTX/NOPB;926-LM78M05CDTX/NOPB;https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM78M05CDTX-NOPB?qs=QbsRYf82W3EiU0JYWOMfbg%3D%3D;;
+1;RLED;R-US_R0805;R0805;R41;RESISTOR, American symbol;;;;;;;;R
+1;SM5817;1N4148W-13-F;SOD3716X145N;D2;Diode Switching 100V 0.15A 2Pin SOD123 Diodes Inc 1N4148W-13-F Switching Diode, 300mA 100V, 2-Pin SOD-123;Diode Switching 100V 0.15A 2Pin SOD123 Diodes Inc 1N4148W-13-F Switching Diode, 300mA 100V, 2-Pin SOD-123;1.45mm;Diodes Inc.;1N4148W-13-F;621-1N4148W-13-F;https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/1N4148W-13-F?qs=rGAXPo9uwV24ebUy2vYvsA%3D%3D;;
+2;TL072D;TL072D;SO08;IC2, IC3;OP AMP;;;;;;;0;
